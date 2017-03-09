@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\00.APPLICATION\03.VIRGOSTUDIO\038-dragndrop\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="caf9a740df10fd38b24e02b255c3eac6593ff41f">
+        <dex dex="E:\00.APPLICATION\03.VIRGOSTUDIO\038-dragndrop\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_e2bba12a358cdc610b2e5b50efb80234efec7a85.jar" />
+    </item>
+
+</items>

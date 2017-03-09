@@ -1,0 +1,12 @@
+.responsive-canvas {
+    /*max-width: 400px;*/
+    .konvajs-content {
+        background: yellow;
+        width: 100% !important;
+        height: auto !important;
+        canvas {
+            width: 100% !important;
+            height: 100% !important;
+        }
+    }
+}

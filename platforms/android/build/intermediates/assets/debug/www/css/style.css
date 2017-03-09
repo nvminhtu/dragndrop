@@ -1,0 +1,9 @@
+.responsive-canvas {
+   }
+  .responsive-canvas .konvajs-content {
+    background: url('../assets/beach.png') left top no-repeat;  
+    background-size: cover;
+    -moz-background-size: cover
+  }
+    .responsive-canvas .konvajs-content canvas {
+    }
